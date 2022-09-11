@@ -5,10 +5,7 @@
  */
 package pc.u1.azulcordero;
 
-/**
- *
- * @author omarl
- */
+
 public class PC4 {
 
     /**
@@ -30,8 +27,8 @@ public class PC4 {
             System.out.println("x==y: " + (ar==br));
             System.out.println("condicion==true: " + (condicion==true));
         //¿Los arreglos se pueden comparar con operadores relacionales?
-        //¿Si/no y porqué?
-        //no se puede, porque no es valor y no tiene posición
+        //¿Si o no y porqué?
+        //no, ya que no te da un orden, posicion o valor por si solo 
     }
     
 }
