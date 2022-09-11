@@ -7,10 +7,7 @@ package pc.u1.azulcordero;
 
 import java.util.Scanner;
 
-/**
- *
- * @author omarl
- */
+
 public class PC3 {
 
     /**
