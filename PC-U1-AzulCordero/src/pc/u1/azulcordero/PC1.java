@@ -23,10 +23,11 @@ public class PC1 {
         nombre[3]="José";
         nombre[4]="Ismael"; 
         //Error: No existe esta variable array de índice 4
-        /*for (int i = 0; i < nombre.length; i++) {
+        //fponer estas lineas en gomentario de ser el caso
+        for (int i = 0; i < nombre.length; i++) {
             System.out.println(nombre[i]);
             JOptionPane.showMessageDialog(null, nombre[i]);          
-        }*/
+        }
         
             System.out.println("Cantidad de parámetros: " + nombre.length);
             System.out.println(nombre[0]);
