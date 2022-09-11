@@ -6,17 +6,14 @@
 package pc.u1.azulcordero;
 
 import java.util.Scanner;
-/**
- *
- * @author omarl
- */
+
 public class PC2 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        /*Scanenr es una clase*/
+        //Scanner es una clase
         //Se instancia objeto
        
         Scanner entrada = new Scanner (System.in);
