@@ -37,6 +37,9 @@ public class PC1 {
             }
             // se muestra el factorial
             System.out.println(String.format("%n%2d!=%.0f%n",i,factorial));
+            //se suma factorial
+            suma=suma+factorial;
+            System.out.println(String.format("Suma de los factoriales desde cero hasta %d:%.0f%n",N,suma));
             
         }
         
